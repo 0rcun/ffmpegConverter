@@ -1,5 +1,4 @@
 #! /bin/bash
-///ffmpeg_multi.sh m4a mp3 ./Desktop/musiccc/ ./Desktop/mp3/
 srcExt=$1
 destExt=$2
 
